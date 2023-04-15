@@ -11,6 +11,12 @@
                 <li>
                     <a href="https://chiss.fr/projets">Projets</a>
                 </li>
+                <li>
+                    <a href="https://connexion.chiss.fr">Connexion</a>
+                </li>
+                <li>
+                    <a href="mailto: matisse.martayan@gmail.com">Contact</a>
+                </li>
             </ul>
         </nav>
         <div class="content">
