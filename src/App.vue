@@ -17,6 +17,9 @@
                 <li>
                     <a href="mailto: matisse.martayan@gmail.com">Contact</a>
                 </li>
+                <li>
+                    <a href="https://connexion.chiss.fr/inscription">Inscription</a>
+                </li>
             </ul>
         </nav>
         <div class="content">
@@ -31,6 +34,7 @@
         </div>
         <footer>
             <p>&copy; Chiss 2023 - Tous droits réservés.</p>
+            <p>Réalisé avec <a href="https://vuejs.org/">Vue.js</a></p>
         </footer>
     </div>
 </template>
